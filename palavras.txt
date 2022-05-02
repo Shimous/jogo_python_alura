@@ -7,3 +7,4 @@ pera
 kiwi
 laranja
 melao
+pitaia
